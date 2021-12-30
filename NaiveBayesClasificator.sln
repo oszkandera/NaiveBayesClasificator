@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayesClasificator", "NaiveBayessClasificator\NaiveBayesClasificator.csproj", "{8BE4519D-D128-40A2-9B33-8BBF3BE3D963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{B689E5B6-BD54-4FC7-85F5-CC480ED2DD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE4519D-D128-40A2-9B33-8BBF3BE3D963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE4519D-D128-40A2-9B33-8BBF3BE3D963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE4519D-D128-40A2-9B33-8BBF3BE3D963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE4519D-D128-40A2-9B33-8BBF3BE3D963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B689E5B6-BD54-4FC7-85F5-CC480ED2DD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B689E5B6-BD54-4FC7-85F5-CC480ED2DD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B689E5B6-BD54-4FC7-85F5-CC480ED2DD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B689E5B6-BD54-4FC7-85F5-CC480ED2DD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEFBC48-E425-4C40-B34B-E138134FB192}
+	EndGlobalSection
+EndGlobal
